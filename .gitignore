@@ -1,0 +1,29 @@
+# --- Python basics ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Virtual environments ---
+venv/
+.env/
+.venv/
+
+# --- OS / IDE junk ---
+.DS_Store
+Thumbs.db
+.idea/
+
+# --- Jupyter / cache ---
+.ipynb_checkpoints/
+
+# --- Logs / temporary ---
+*.log
+*.tmp
+
+# --- Outputs (optional, but recommended) ---
+results/
+plots/
+
+# --- Extra folders found locally ---
+share/
