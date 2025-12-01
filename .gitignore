@@ -21,8 +21,7 @@ Thumbs.db
 *.log
 *.tmp
 
-# --- Outputs (optional, but recommended) ---
-results/
+# --- Outputs ---
 plots/
 
 # --- Extra folders found locally ---
